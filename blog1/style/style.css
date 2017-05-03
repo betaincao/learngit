@@ -1,0 +1,125 @@
+/*<!-定义body样式-->*/
+body{
+	font-size:12px;
+	background-color:#c6c68c;
+	padding:0px;
+	font-family:Helvetica,sans-serif;
+}
+/*<!-定义container样式-->*/
+#container{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:2px;
+	margin-bottom:0px;
+	padding:0;
+	width:760px;
+	border:1px solid #000;
+	background-color:#F6F6F6;
+}
+/*<!-定义header样式-->*/
+#header{
+	margin-left:auto;
+	margin-right:auto;
+	padding:8px;
+	height:80px;
+	background-color:#E8F3FD;
+	border-bottom:1px solid #000;
+	font-size:16px;
+	font-weight:bold;
+}
+/*<!-定义title样式-->*/
+#title{
+	margin-left:auto;
+	margin-right:auto;
+	padding:8px;
+	height:10px;
+	background-color:#E8F3FD;
+	border-bottom:1px solid #000;
+	font-style:italic;
+}
+/*<!-定义left样式-->*/
+#left{
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+	margin:6px 0 4px 2px;
+	padding:5px;
+	width:530px;
+}
+/*<!-定义right样式-->*/
+#right{
+float:right;
+	margin-left:auto;
+	margin-right:auto;
+	margin:6px 0 4px 2px;
+	padding:5px;
+	width:200px;
+}
+/*<!-定义blog_entry样式-->*/
+#blog_entry{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:4px;
+	margin-bottom:10px;
+	border:1px solid #000;
+	background-color:#FFF;
+}
+/*<!-定义blog_title样式-->*/
+#blog_title{
+	border-bottom:1px solid #000;
+	background-color:#E8ECDB;
+	magin:0px;
+	padding:4px;
+	font-weight:bold;
+	font-size:13px;
+}
+/*<!-定义blog_body样式-->*/
+#blog_body{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:4px;
+	padding:6px;
+}
+/*<!-定义blog_date样式-->*/
+#blog_date{
+	margin-left:auto;
+	margin-right:auto;
+	padding:0 0 8px 0;
+	font-size:10px;
+}
+/*<!-定义sidebar样式-->*/
+#sidebar{
+	margin-left:auto;
+	margin-right:auto;
+	border:1px solid #000;
+	width:180px;
+	background-color:#FFF;
+}
+/*<!-定义menu_title样式-->*/
+#menu_title{
+	border-bottom:1px solid #000;
+	background-color:#E8ECDB;
+	magin:0px;
+	padding:4px;
+	height:10px;
+	font-weight:bold;
+}
+/*<!-定义menu_body样式-->*/
+#menu_body{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:4px;
+	width:300px;
+	padding:6px;
+}
+/*<!-定义footer_title样式-->*/
+#footer_title{
+	clear:both;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	padding:8px;
+	height:10px;
+	background-color:#E8F3FD;
+	border-top:1px solid #000;
+}
